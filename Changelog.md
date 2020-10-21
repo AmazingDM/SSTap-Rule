@@ -1,6 +1,18 @@
 
 
 # 更新日志
+
+### 2020年8月16日
+
+更新`Steam` 平台规则
+
+更新`World of Tanks-Asia,坦克世界-亚服` 游戏规则
+
+### 2020年8月14日
+By @ClarkeCheng
+
+新增`Halo-The-Master-Chief-Collection,光环：士官长合集` 游戏规则
+
 ### 2020年3月19日
 
 By @normanbb
